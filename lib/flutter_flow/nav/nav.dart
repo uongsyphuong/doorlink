@@ -414,7 +414,7 @@ class FFRoute {
                   color: const Color(0xffffffff),
                   child: Center(
                     child: Image.asset(
-                      'assets/images/splash_image.png',
+                      'assets/images/app_icon.png',
                       width: MediaQuery.sizeOf(context).width * 0.7,
                       height: MediaQuery.sizeOf(context).height * 0.2,
                       fit: BoxFit.fitWidth,
